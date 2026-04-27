@@ -190,7 +190,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 81cdb5926e8161d4b96ca936c0f4a48e, type: 3}
       propertyPath: m_Name
-      value: Pinche (1)
+      value: PincheKonoba
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 81cdb5926e8161d4b96ca936c0f4a48e, type: 3}
       propertyPath: m_LocalPosition.x
